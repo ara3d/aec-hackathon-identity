@@ -42,22 +42,20 @@ such as VS code, Git, and Github.
 Beyond using existing tools, by storing it in an easily parsed format like JSON, it is possible to quickly write new tools
 that can compute deltas between identity models and show the differences directly in the BIM authoring tool:
 
+https://github.com/ara3d/aec-hackathon-identity/assets/1759994/3c426afb-2966-489b-88ef-3f8a6742379c
+
 ## Displaying Changes in Rhino
 
 We can also provide better controls for people making changes to send (commit) data when it make sense: 
 
 https://github.com/ara3d/aec-hackathon-identity/assets/1759994/9a5fbaae-45fc-49e6-bb6d-047039c3eb43
 
-## Technical Challenge: Mesh Similarity
-
-[Todo]
-
 ## Presentation
 
 * [https://github.com/ara3d/aec-hackathon-identity/blob/main/identy.pptx]
 * [https://github.com/ara3d/aec-hackathon-identity/blob/main/identy.pdf]
 
-## Mesh Similarity
+## Technical Challenge: Mesh Similarity
 
 One of the technical hurdles is dealing with similarity with meshes. For the purpose of the Hackathon
 we developed some code in C# to compute mesh similarity.
