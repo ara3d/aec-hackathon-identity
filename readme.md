@@ -28,6 +28,10 @@ chunks of data (**components**) and the different documents.
 By storing the entity and component data in plain-text, we can use use the same text-based version control tools that developers use
 such as VS code, Git, and Github.
 
+## Sample Identity Model
+
+We have a sample representation of hosting an Identity Model on a Github repository online at [https://github.com/cdiggins/IdentityModelSampleRepo]
+
 ## VS Code Integrated Diffing Tool
 
 ![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/4d408f2c-8e8d-4a27-95d3-c8fc986f7cfa)
