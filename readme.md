@@ -28,13 +28,21 @@ chunks of data (**components**) and the different documents.
 By storing the entity and component data in plain-text, we can use use the same text-based version control tools that developers use
 such as VS code, Git, and Github.
 
-![image](![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/4d408f2c-8e8d-4a27-95d3-c8fc986f7cfa)
+## VS Code Integrated Diffing Tool
+
+![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/4d408f2c-8e8d-4a27-95d3-c8fc986f7cfa)
+
+## Github Workflows
+
 ![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/e86366e3-fb33-44ae-a2b5-34f00362f508)
 ![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/0eeb96cb-b14c-4049-983e-a5a46e038752)
+
+## Displaying Changes in Revit
 
 Beyond using existing tools, by storing it in an easily parsed format like JSON, it is possible to quickly write new tools
 that can compute deltas between identity models and show the differences directly in the BIM authoring tool:
 
+## Displaying Changes in Rhino
 
 We can also provide better controls for people making changes to send (commit) data when it make sense: 
 
@@ -42,15 +50,19 @@ https://github.com/ara3d/aec-hackathon-identity/assets/1759994/9a5fbaae-45fc-49e
 
 ## Technical Challenge: Mesh Similarity
 
-Related to the problem 
-
+[Todo]
 
 ## Presentation
 
 * [https://github.com/ara3d/aec-hackathon-identity/blob/main/identy.pptx]
 * [https://github.com/ara3d/aec-hackathon-identity/blob/main/identy.pdf]
 
-## Technical Problems Solved 
+## Mesh Similarity
+
+One of the technical hurdles is dealing with similarity with meshes. For the purpose of the Hackathon
+we developed some code in C# to compute mesh similarity.
+
+![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/04d5372e-2a36-4de8-a5b5-c9b76b8e2d99)
 
 ## Code Links 
 
@@ -74,4 +86,4 @@ The following code examples have not yet been uploaded online:
 
 ## References
 
-Strange Matter by Greg Schelussner
+* [Strange Matter by Greg Schelussner](https://github.com/magnetar-io/strange_matter)
