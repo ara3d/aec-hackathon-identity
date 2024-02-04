@@ -1,4 +1,4 @@
-# Team Identity
+![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/4efaed44-1ac9-4b45-b5dc-53b766c3d097)# Team Identity
 
 ## Entry for AEC Hackathon, February 2024 in Zurich
 
@@ -20,17 +20,35 @@ Communicating and collaborating between stakeholders and teams requires a comple
 One of the biggest challenges is having a common understanding of when two documents or issues are talking about the same thing. 
 In other words there is no widely-agreed upon mechanism for a project to have a central authority to identify the entities. 
 
-## Inspiration
-
-[Todo]
-
 ## Our Proposed Solution 
 
-[Todo]
+Our proposal was to build an **Identity Model** in a text-readable format (e.g., JSON) which provides linkage between the different 
+chunks of data (**components**) and the different documents.
+
+By storing the entity and component data in plain-text, we can use use the same text-based version control tools that developers use
+such as VS code, Git, and Github.
+
+![image](![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/4d408f2c-8e8d-4a27-95d3-c8fc986f7cfa)
+![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/e86366e3-fb33-44ae-a2b5-34f00362f508)
+![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/0eeb96cb-b14c-4049-983e-a5a46e038752)
+
+Beyond using existing tools, by storing it in an easily parsed format like JSON, it is possible to quickly write new tools
+that can compute deltas between identity models and show the differences directly in the BIM authoring tool:
+
+
+We can also provide better controls for people making changes to send (commit) data when it make sense: 
+
+https://github.com/ara3d/aec-hackathon-identity/assets/1759994/9a5fbaae-45fc-49e6-bb6d-047039c3eb43
+
+## Technical Challenge: Mesh Similarity
+
+Related to the problem 
+
 
 ## Presentation
 
-[Todo]
+* [https://github.com/ara3d/aec-hackathon-identity/blob/main/identy.pptx]
+* [https://github.com/ara3d/aec-hackathon-identity/blob/main/identy.pdf]
 
 ## Technical Problems Solved 
 
