@@ -4,15 +4,13 @@
 
 ## Members 
 
-Ahmed Wael Ismail 
-Christopher Diggins 
-Elia Waefle 
-Helena Krogmann 
-Mohammed Khazna 
-Olga Poletkina 
-Otmane Salih 
-
-## About
+* Ahmed Wael Ismail
+* Christopher Diggins 
+* Elia Waefle 
+* Helena Krogmann 
+* Mohammed Khazna 
+* Olga Poletkina 
+* Otmane Salih 
 
 ## Problem Statement 
 
