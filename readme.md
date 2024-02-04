@@ -1,4 +1,4 @@
-![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/4efaed44-1ac9-4b45-b5dc-53b766c3d097)# Team Identity
+# Team Identity
 
 ## Entry for AEC Hackathon, February 2024 in Zurich
 
