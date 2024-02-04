@@ -37,14 +37,14 @@ such as VS code, Git, and Github.
 ![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/e86366e3-fb33-44ae-a2b5-34f00362f508)
 ![image](https://github.com/ara3d/aec-hackathon-identity/assets/1759994/0eeb96cb-b14c-4049-983e-a5a46e038752)
 
-## Displaying Changes in Revit
+## Displaying Changes in Revit - With Approval
 
 Beyond using existing tools, by storing it in an easily parsed format like JSON, it is possible to quickly write new tools
 that can compute deltas between identity models and show the differences directly in the BIM authoring tool:
 
-https://github.com/ara3d/aec-hackathon-identity/assets/1759994/3c426afb-2966-489b-88ef-3f8a6742379c
+https://github.com/ara3d/aec-hackathon-identity/assets/1759994/2c289d1c-a809-4aba-b223-b6172bc2cb20
 
-## Displaying Changes in Rhino
+## Displaying Changes in Rhino - Before Sending
 
 We can also provide better controls for people making changes to send (commit) data when it make sense: 
 
