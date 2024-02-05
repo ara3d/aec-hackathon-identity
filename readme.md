@@ -78,12 +78,13 @@ These folders contains libraries of C# functions for:
 * Generating an initial identity model in JSON format
 * Computing difference between two identity models as an array of JSON records 
 
-## Other Code Written 
+In a separate repo:
+
+* A [Rhino plug-in was written by Ahmed Wael Imsail](https://github.com/AhWaIs/RhinoObjExport) to generate a list of OBJs from Rhino.
 
 The following code examples have not yet been uploaded online: 
 
 * A Python script for Revit was written by Olga Poletkina to read JSON difference records
-* A Rhino plug-in was written by Ahmed Wael Imsail to generate a list of OBJs from Rhino
 * A Python standalone script was written by Elia Waefle to generate a list of OBJ files and JSON parameter sets  
 
 ## References
