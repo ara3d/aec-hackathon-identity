@@ -8,9 +8,9 @@
 
 * Ahmed Wael Ismail
 * Christopher Diggins 
-* Elia Waefle 
+* Elia Wäfler 
 * Helena Krogmann 
-* Mohammed Khazna 
+* Mohamad Khazna 
 * Olga Poletkina 
 * Otmane Salih 
 
